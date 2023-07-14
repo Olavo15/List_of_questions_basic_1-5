@@ -5,6 +5,6 @@ A formula de conversão é: C = 5.0 * ( F - 32.0) / 9.0,sendo C a temperatura em
 
 f = float(input())
 
-C = 5 * (f - 32 ) / 9
+c = 5 * (f - 32 ) / 9
 
-print(C)
+print(c)
